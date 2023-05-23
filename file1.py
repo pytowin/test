@@ -5,3 +5,6 @@ def first():
 
 def second():
     print("witamy")
+
+def third(z):
+    return z + 1
